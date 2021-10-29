@@ -20,7 +20,10 @@
   },
   "homepage": "https://github.com/ScalexanderB/Team-Profile-Generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "fspromises-toolbox": "^0.3.0",
+    "inquirer": "^8.2.0",
+    "path": "^0.12.7",
+    "util": "^0.12.4"
   },
   "devDependencies": {
     "jest": "^27.3.1"
